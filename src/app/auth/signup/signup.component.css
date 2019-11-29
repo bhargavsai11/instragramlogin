@@ -1,0 +1,33 @@
+.signupform{
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 30px;
+    margin: -593px auto;
+    margin-right: 313px;
+    
+    
+}
+.signupform h1 {
+    background: url('https://www.instagram.com/static/bundles/es6/sprite_core_b20f2a3cd7e4.png/b20f2a3cd7e4.png');
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    background-position: -96px 0px;
+    width: 176px;
+    height: 52px;
+    text-align: center;
+    margin: 0 auto;
+}
+.images{
+align-self: center;
+    background-image: url('https://www.instagram.com/static/images/homepage/home-phones.png/43cc71bb1b43.png');
+    background-position: 0 0;
+    background-size: 454px 618px;
+    -webkit-flex-basis: 454px;
+    -ms-flex-preferred-size: 454px;
+    flex-basis: 454px;
+    height: 618px;
+    margin-left: 225px;
+    margin-right: -15px;
+
+}
+
